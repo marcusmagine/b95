@@ -1,0 +1,244 @@
+{
+  "archivedAt": "2026-03-24T14:59:35.797Z",
+  "sourceUrl": "https://www.erikolsson.se/homes/Lagenhet-4rum-Bondegatan-95-Stockholm-Stockholm-kommun-5985163",
+  "meta": {
+    "title": "Bondegatan 95, Stockholm - Lägenhet, 4 rum, 85 m²",
+    "description": "Varmt välkomna till denna rymliga och välplanerade fyrarummare på våning 5 – ett hem där ljus, funktion och stil möts!\n\nMed sina 85 kvm erbjuder denna genomgående bostad ett smart och bekvämt boende med tre sovrum, öppen planlösning mellan kök och vardagsrum samt väl avvägda ytor för både vardag och umgänge.\n\nLjuset strömmar in genom stora fönster i två väderstreck, och den stora balkongen ger en härlig känsla av rymd samtidigt som du kan njuta av utsikten utan att lämna hemmet.\n\nVardagsrummet är lättmöblerat med plats för både soffgrupp och matbord, perfekt för sociala stunder. Köket är modernt och praktiskt med gott om arbetsytor och smart förvaring – en dröm för matlagning och middagar tillsammans.",
+    "providerId": "OBJ19157_2098157122",
+    "ogImage": "https://imagedelivery.net/kqO10avqav-88lAz_wnMzQ/54f426ae-a0d7-4d3d-2361-f86b01647d00/w=1200,h=630,fit=cover,quality=90,format=auto",
+    "mapImageId": "fee3918c-ca52-4d03-3ba9-2bd0d95bda00",
+    "lat": 59.312656,
+    "lon": 18.098692
+  },
+  "images": [
+    {
+      "uuid": "54f426ae-a0d7-4d3d-2361-f86b01647d00",
+      "filename": "photo_01_54f426ae.jpg",
+      "localPath": "assets/images/photo_01_54f426ae.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "4856ecda-47ee-4c93-ce38-9c5758f48b00",
+      "filename": "photo_02_4856ecda.jpg",
+      "localPath": "assets/images/photo_02_4856ecda.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "6c3529ff-aed9-4a7a-2590-c77467220500",
+      "filename": "photo_03_6c3529ff.jpg",
+      "localPath": "assets/images/photo_03_6c3529ff.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "a42b1a1b-1c90-442b-b46e-29281efc2b00",
+      "filename": "photo_04_a42b1a1b.jpg",
+      "localPath": "assets/images/photo_04_a42b1a1b.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "54051764-652e-4db1-c42c-d9d3e87c8b00",
+      "filename": "photo_05_54051764.jpg",
+      "localPath": "assets/images/photo_05_54051764.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "d9625009-3ba9-4a35-0794-39444650cf00",
+      "filename": "photo_06_d9625009.jpg",
+      "localPath": "assets/images/photo_06_d9625009.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "eee409e0-941a-4912-ac6b-4177a97c1000",
+      "filename": "photo_07_eee409e0.jpg",
+      "localPath": "assets/images/photo_07_eee409e0.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "4c786bf6-15ac-4750-b36d-97388ed90c00",
+      "filename": "photo_08_4c786bf6.jpg",
+      "localPath": "assets/images/photo_08_4c786bf6.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "2b23a7b9-fa2d-4b97-a244-d433d7dca600",
+      "filename": "photo_09_2b23a7b9.jpg",
+      "localPath": "assets/images/photo_09_2b23a7b9.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "0ec22081-f830-4805-512f-f20427f69900",
+      "filename": "photo_10_0ec22081.jpg",
+      "localPath": "assets/images/photo_10_0ec22081.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "d4eeef50-73bd-4154-461d-24b72bd84d00",
+      "filename": "photo_11_d4eeef50.jpg",
+      "localPath": "assets/images/photo_11_d4eeef50.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "991c86b5-bc7f-45f1-0ffc-3b2b58599300",
+      "filename": "photo_12_991c86b5.jpg",
+      "localPath": "assets/images/photo_12_991c86b5.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "9d7ce85c-1dbd-49d9-6dbc-e46f09135a00",
+      "filename": "photo_13_9d7ce85c.jpg",
+      "localPath": "assets/images/photo_13_9d7ce85c.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "e64765bd-767f-4bb8-9900-eb71c0b50a00",
+      "filename": "photo_14_e64765bd.jpg",
+      "localPath": "assets/images/photo_14_e64765bd.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "8f46750f-d220-4b7d-af86-259f33fe8d00",
+      "filename": "photo_15_8f46750f.jpg",
+      "localPath": "assets/images/photo_15_8f46750f.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "e1489401-caf8-4615-d1f5-20046ff75000",
+      "filename": "photo_16_e1489401.jpg",
+      "localPath": "assets/images/photo_16_e1489401.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "69cd70b4-b3b3-4ae7-86b6-ec04a84fc200",
+      "filename": "photo_17_69cd70b4.jpg",
+      "localPath": "assets/images/photo_17_69cd70b4.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "98961593-b3fe-4202-d4b0-1c5d1de4aa00",
+      "filename": "photo_18_98961593.jpg",
+      "localPath": "assets/images/photo_18_98961593.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "8b0a72ac-48ca-44f8-5fc8-ca80db49e500",
+      "filename": "photo_19_8b0a72ac.jpg",
+      "localPath": "assets/images/photo_19_8b0a72ac.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "9b8a1d36-654d-4dd0-eb12-02b6766bc700",
+      "filename": "photo_20_9b8a1d36.jpg",
+      "localPath": "assets/images/photo_20_9b8a1d36.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "00f00b5a-e4be-42ef-f76b-cd903b374b00",
+      "filename": "photo_21_00f00b5a.jpg",
+      "localPath": "assets/images/photo_21_00f00b5a.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "b135f038-69e8-4f4a-8fa3-47b2b1395800",
+      "filename": "photo_22_b135f038.jpg",
+      "localPath": "assets/images/photo_22_b135f038.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "ada5d9c8-a3df-4a09-94b2-737d1eb42a00",
+      "filename": "photo_23_ada5d9c8.jpg",
+      "localPath": "assets/images/photo_23_ada5d9c8.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "d045dffc-476d-4634-b637-f1de2bf41700",
+      "filename": "photo_24_d045dffc.jpg",
+      "localPath": "assets/images/photo_24_d045dffc.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "a9a11971-610b-463c-30f7-d85ff3cc6600",
+      "filename": "photo_25_a9a11971.jpg",
+      "localPath": "assets/images/photo_25_a9a11971.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "d0985c36-248f-404c-3968-b27ca7150900",
+      "filename": "photo_26_d0985c36.jpg",
+      "localPath": "assets/images/photo_26_d0985c36.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "9c3590af-c0a6-4acb-72da-95d1e48ac700",
+      "filename": "photo_27_9c3590af.jpg",
+      "localPath": "assets/images/photo_27_9c3590af.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "f10e9a51-76e9-45f1-aa1e-29083044b900",
+      "filename": "photo_28_f10e9a51.jpg",
+      "localPath": "assets/images/photo_28_f10e9a51.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "f39c3516-cc71-47ed-24a4-2460f0e15600",
+      "filename": "photo_29_f39c3516.jpg",
+      "localPath": "assets/images/photo_29_f39c3516.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "53f2f8e9-8ca3-4309-769c-c4d08b52ef00",
+      "filename": "photo_30_53f2f8e9.jpg",
+      "localPath": "assets/images/photo_30_53f2f8e9.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "998e2cc8-38ee-4df0-1325-e15d45145e00",
+      "filename": "photo_31_998e2cc8.jpg",
+      "localPath": "assets/images/photo_31_998e2cc8.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "a19c604c-236a-4764-589d-3643f8b74900",
+      "filename": "photo_32_a19c604c.jpg",
+      "localPath": "assets/images/photo_32_a19c604c.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "16317154-c277-4075-2265-45a1e135c600",
+      "filename": "photo_33_16317154.jpg",
+      "localPath": "assets/images/photo_33_16317154.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "8962bef8-ecaa-4ab7-fe44-9840ce6c6300",
+      "filename": "photo_34_8962bef8.jpg",
+      "localPath": "assets/images/photo_34_8962bef8.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "33a1d8e3-21ca-4d40-0287-5a6d211e9b00",
+      "filename": "photo_35_33a1d8e3.jpg",
+      "localPath": "assets/images/photo_35_33a1d8e3.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "7c485337-49f8-405b-b0d6-3e6874822100",
+      "filename": "photo_36_7c485337.jpg",
+      "localPath": "assets/images/photo_36_7c485337.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "610b9a6f-2a56-4176-471b-5bfc433b6c00",
+      "filename": "photo_37_610b9a6f.jpg",
+      "localPath": "assets/images/photo_37_610b9a6f.jpg",
+      "cached": true
+    },
+    {
+      "uuid": "9e329dcc-e85d-4b92-6f2d-12699fe47200",
+      "filename": "photo_38_9e329dcc.jpg",
+      "localPath": "assets/images/photo_38_9e329dcc.jpg",
+      "cached": true
+    }
+  ],
+  "documents": []
+}

@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx playwright:*)",
+      "Bash(node scraper.js)",
+      "Bash(python3 -:*)",
+      "Bash(node download.js)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
