@@ -27,6 +27,10 @@
 
       --radius: 3px;
       --gap: 3px;
+
+      --neon:      #00e5cc;
+      --neon-dim:  rgba(0, 229, 204, 0.18);
+      --neon-glow: 0 0 8px rgba(0,229,204,.7), 0 0 24px rgba(0,229,204,.35);
     }
 
     html { scroll-behavior: smooth; }
@@ -96,6 +100,8 @@
     .hero-title em {
       font-style: italic;
       font-weight: 300;
+      color: var(--neon);
+      text-shadow: 0 0 10px rgba(0,229,204,.8), 0 0 30px rgba(0,229,204,.4);
     }
 
     .hero-meta {
@@ -164,10 +170,13 @@
       text-transform: uppercase;
       color: var(--dusk);
       text-decoration: none;
-      transition: color .2s;
+      transition: color .2s, text-shadow .2s;
     }
 
-    .nav-links a:hover { color: var(--peat); }
+    .nav-links a:hover {
+      color: var(--neon);
+      text-shadow: var(--neon-glow);
+    }
 
     /* ── Layout container ────────────────────────────────────── */
     .container {
@@ -206,6 +215,12 @@
       line-height: 1;
       color: var(--peat);
       letter-spacing: -.01em;
+      transition: color .25s, text-shadow .25s;
+    }
+
+    .stat:hover .stat-value {
+      color: var(--neon);
+      text-shadow: var(--neon-glow);
     }
 
     .stat-label {
@@ -230,7 +245,8 @@
       font-weight: 400;
       letter-spacing: .2em;
       text-transform: uppercase;
-      color: var(--fog);
+      color: var(--neon);
+      text-shadow: 0 0 8px rgba(0,229,204,.5);
       margin-bottom: 1.4rem;
       display: flex;
       align-items: center;
@@ -242,7 +258,8 @@
       flex: 1;
       max-width: 40px;
       height: 1px;
-      background: var(--ash);
+      background: var(--neon);
+      box-shadow: var(--neon-glow);
     }
 
     /* ── Description ─────────────────────────────────────────── */
@@ -264,7 +281,8 @@
 
     .description-heading em {
       font-style: italic;
-      color: var(--moss);
+      color: var(--neon);
+      text-shadow: 0 0 12px rgba(0,229,204,.5);
     }
 
     .description-body {
@@ -329,6 +347,10 @@
       opacity: .88;
     }
 
+    .masonry figure:hover {
+      box-shadow: inset 0 0 0 2px var(--neon), 0 0 20px rgba(0,229,204,.3);
+    }
+
     .masonry figure .img-num {
       position: absolute;
       top: .65rem;
@@ -379,6 +401,10 @@
     .gallery-featured figure:hover img {
       transform: scale(1.04);
       opacity: .88;
+    }
+
+    .gallery-featured figure:hover {
+      box-shadow: inset 0 0 0 2px var(--neon), 0 0 28px rgba(0,229,204,.35);
     }
 
     /* ── Lightbox ─────────────────────────────────────────────── */
@@ -459,12 +485,16 @@
 
     .lightbox-prev:hover,
     .lightbox-next:hover {
-      border-color: rgba(255,255,255,.6);
-      background: rgba(255,255,255,.07);
+      border-color: var(--neon);
+      background: var(--neon-dim);
+      box-shadow: var(--neon-glow);
     }
 
     .lightbox-prev svg,
-    .lightbox-next svg { stroke: rgba(255,255,255,.7); }
+    .lightbox-next svg { stroke: rgba(255,255,255,.7); transition: stroke .2s; }
+
+    .lightbox-prev:hover svg,
+    .lightbox-next:hover svg { stroke: var(--neon); }
 
     .lightbox-caption {
       position: absolute;
